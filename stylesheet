@@ -1,0 +1,11 @@
+.container {
+    width: 1260px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.top {
+    padding: 1000px 0;
+    background-image: url(https://webusstatic.yo-star.com/ark_jp_web/pc/img/gallery14.fb056f6b.jpg);
+    background-size: cover;
+}
